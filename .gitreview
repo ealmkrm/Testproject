@@ -1,0 +1,7 @@
+[gerrit]
+host=aliengain.com
+port=29418
+project=ealmkrm/Testproject.git
+defaultbranch=master
+defaultremote=origin
+defaultrebase=1
