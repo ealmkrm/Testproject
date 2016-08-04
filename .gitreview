@@ -4,4 +4,4 @@ port=29418
 project=ealmkrm/Testproject.git
 defaultbranch=master
 defaultremote=origin
-defaultrebase=1
+defaultrebase=1 
